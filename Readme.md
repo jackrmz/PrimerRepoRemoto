@@ -3,7 +3,7 @@
 Entendemos por servicio a la forma en la que se puede hacer llegar el manjar preparado a la persona que lo va a degustar, pudiendo ser éste el cliente de un restaurant, o cualquier miembro familiar que se siente en la mesa para comer.
 Cuatro son los principales tipos de servicio (francés, americano, ruso e inglés).
 
-![Servicio](http://www.escuelahosteleriacanarias.com/documentos/servicios-de-restaurante.html)
+![Servicio](http://www.escuelahosteleriacanarias.com/img/cursos/servicios-de-restaurante.jpg)
 
 + Francés 
 
