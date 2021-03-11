@@ -36,4 +36,4 @@ En el servicio a la inglesa, es el camarero el que sirve al comensal directament
 *Gueridón* 
 Los gueridones son mesas auxiliares que se utilizan para el servicio de mesas en restaurantes de categoría. En ellos se depositan las soperas, fuentes y otros utensilioscon los manjares, y allí se emplatan las viandas y demás alimentos a la vista del cliente. Los gueridones se recubren con un muletón y un cubre mantel, y se colocan cerca de las mesas al empezar un servicio. Por lo general los restaurantes de alta categoría disponen de uno cada dos mesas.
 
-Hay tambien algunas normas donde puedes consultar para el correcto servicio
+Hay tambien algunas [normas](https://www.thecooksters.com/blog/trucos-consejos/normas-de-servicio-en-sala/) donde puedes consultar para el correcto servicio
